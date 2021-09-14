@@ -215,4 +215,4 @@
 #     if mas_1.count(i) >= 2:
 #         mas_2.append(i)
 # print(mas_2)
-
+print("hello")
